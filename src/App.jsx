@@ -1,10 +1,10 @@
-
-
+import React from "react"
+import Ruxsora from "./Components/Ruxsora/ruxsoo"
 function App() {
 
   return (
     <>
-     salom
+     <Ruxsora/>
     </>
   )
 }
